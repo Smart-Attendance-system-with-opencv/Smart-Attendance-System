@@ -16,3 +16,10 @@ total students details and the attendance list of the students,the attendance is
 particular day.All the students who are attended to the class on that day,those students attendance
 data will be recorded in the respective excel sheet.In this way,we can easily collect attendance of the
 students in a small amount of time and there is no extra work to be done by the students and faculty.
+# SOFTWARE REQUIREMENTS
+Operating System: Ubuntu 18.04 or higher
+Language: Python
+Tools: Python tkinter,PyTesseract(OCR),Pycharm IDE/Eclipse IDE,openCV,openpyxl
+Technologies used: Python 3.0 or above, Image processing
+# NOTE
+In this project the attendance is based on our University students only.
