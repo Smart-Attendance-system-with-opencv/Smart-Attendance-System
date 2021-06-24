@@ -1,1 +1,3 @@
 # Smart-Attendance-System
+
+DESCRIPTION
